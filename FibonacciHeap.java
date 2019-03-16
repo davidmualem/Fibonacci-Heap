@@ -2,10 +2,6 @@ import java.util.Arrays;
 import java.util.Iterator;
 
 /**
- * 
- * David Mualem, 308375872, user: davidmualem
- * Matan Roet, 205660574, user: matanroet
- * 
  * FibonacciHeap
  *
  * An implementation of fibonacci heap over non-negative integers.
